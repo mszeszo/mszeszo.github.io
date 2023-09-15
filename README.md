@@ -1,10 +1,10 @@
-# Data Analyst
-## Projects:
+## Data Analyst
+### Projects:
 
-## Skills:
+### Skills:
 Python | Sckit-learn | Seaborn | Matplotlib | BeautifulSoup| Pandas | R | ggplot2 | SQL | Tableau | Microsoft Excel | Microsoft Office |
 
-## Work Experience:
+### Work Experience:
 Data Analyst Jan 2023 – Present, Career Accelerator, The London School of Economics and Political Science (LSE)
 Clinical Fellow 2021 – 2022, Royal Free London NHS Foundation Trust, The Hillingdon Hospitals
 Clinical Fellow 2017 – 2020, Medway NHS Foundation Trust
