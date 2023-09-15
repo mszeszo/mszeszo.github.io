@@ -1,4 +1,4 @@
-# mszeszo.github.io
+Data Analyst
 Projects:
 
 Skills:
