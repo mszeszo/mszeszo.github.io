@@ -6,7 +6,18 @@ Python | Sckit-learn | Seaborn | Matplotlib | BeautifulSoup| Pandas | R | ggplot
 
 ### Work Experience:
 - Data Analyst Jan 2023 – Present, Career Accelerator, The London School of Economics and Political Science (LSE)
- Employer Project (Aug 2023 – Sep 2023)
+ <snippet>
+    <content><![CDATA[{% break %}]]></content>
+    <tabTrigger>break</tabTrigger>
+    <scope>text.html, text.html.markdown, source.json, text.html.textile, source.sass, source.scss</scope>
+    <description>break</description>
+</snippet>Employer Project (Aug 2023 – Sep 2023)
+<snippet>
+    <content><![CDATA[{% break %}]]></content>
+    <tabTrigger>break</tabTrigger>
+    <scope>text.html, text.html.markdown, source.json, text.html.textile, source.sass, source.scss</scope>
+    <description>break</description>
+</snippet>
  Project for My Community Finance (Amplifi Capital U.K.) that focused on an Affordability calculation within a Responsible Lending Framework.
 - Clinical Fellow 2021 – 2022, Royal Free London NHS Foundation Trust, The Hillingdon Hospitals
 - Clinical Fellow 2017 – 2020, Medway NHS Foundation Trust
